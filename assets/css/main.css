@@ -1,0 +1,25 @@
+body {
+  font-size: 14px;
+  font-family: helvetica;
+  line-height: 1.5;
+}
+
+.jumbotron {
+  margin-top: 10%;
+}
+
+a:hover {
+  color: #fff;
+}
+.active {
+  color: #fff;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+}
+
+.mt{
+  margin-top: 15%;
+}
